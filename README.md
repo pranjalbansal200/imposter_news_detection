@@ -1,4 +1,4 @@
-# fake_news_detection_mini_project
+# Imposter Content Detection
 
 
 ## Overview
